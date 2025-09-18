@@ -24,7 +24,7 @@
         </header>
         <main>
             <h1>
-                Vienbenido a la pagina de cristian Gaspar
+                Bienvenido a la pagina de cristian Gaspar
             </h1>
             <div class="card">
                 <img class="card-img-top" src="holder.js/100x180/" alt="Title" />
