@@ -26,6 +26,15 @@
             <h1>
                 Vienbenido a la pagina de cristian Gaspar
             </h1>
+            <div class="card">
+                <img class="card-img-top" src="holder.js/100x180/" alt="Title" />
+                <div class="card-body">
+                    <h4 class="card-title">Aplicaciones web</h4>
+                    <p class="card-text">Grado: 4to Grupo:"B"</p>
+                    <p class="card-text">Autor: Cristian Gaspar Perez Aguilar</p>
+                </div>
+            </div>
+            
         </main>
         <footer>
             <!-- place footer here -->
